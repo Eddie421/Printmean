@@ -17,6 +17,8 @@ public class Main {
         double mean = (a + b + c + d) / 4.0;
         String meanString = "" + mean;
 
+        //5,0
+
         return meanString;
     }
 }
