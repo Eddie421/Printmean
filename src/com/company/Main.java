@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        //want to show all digits ex: 2.000
+        //text
 
         System.out.println("Mean of 1, 1, 3, 3: " + meanCalc( 1, 1, 3,  3));
         System.out.println("Mean of 1, 2, 3, 4: " + meanCalc( 1, 2, 3, 4));
